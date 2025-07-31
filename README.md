@@ -80,18 +80,6 @@ cartpole-esn/
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repo  
-2. Create a feature branch: `git checkout -b feature/YourFeature`  
-3. Commit changes: `git commit -m "Add your feature"`  
-4. Push to branch: `git push origin feature/YourFeature`  
-5. Open a Pull Request
-
-Please follow the [PR guidelines](CONTRIBUTING.md) and ensure all tests pass.
-
----
-
 ## 📜 License
 
 This project is released under the **MIT License**.
