@@ -1,7 +1,7 @@
 """
 Policy network wrapping the ESN with softmax output.
 """
-
+import torch
 import torch.nn as nn
 from esn import EchoStateNetwork
 
