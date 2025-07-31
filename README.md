@@ -69,22 +69,6 @@ cartpole-esn/
 
 ---
 
-## 📈 Performance
-
-- **Benchmark**: CartPole-v1 solved (≥195 avg. reward over 100 episodes) typically in **<200 episodes**.
-- **Sample learning curve**:
-
-```
-Episode  0: Reward = 15
-Episode 50: Reward = 120
-Episode100: Reward = 195
-...
-```
-
-> *Tip:* Plot training rewards using TensorBoard or Matplotlib for more granular analysis.
-
----
-
 ## 🔧 Extanding to New Environments
 
 1. **Adjust action/output dimension**  
@@ -110,11 +94,5 @@ Please follow the [PR guidelines](CONTRIBUTING.md) and ensure all tests pass.
 
 ## 📜 License
 
-This project is released under the **MIT License**. See [LICENSE](LICENSE) for full text.
+This project is released under the **MIT License**.
 
----
-
-## 📬 Contact
-
-**Your Name** — [your.email@example.com](mailto:your.email@example.com)  
-Project Link: [https://github.com/yourusername/cartpole-esn](https://github.com/yourusername/cartpole-esn)
