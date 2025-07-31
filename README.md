@@ -24,8 +24,8 @@ A high-performance, PyTorch-based implementation of **Echo State Networks** (ESN
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/cartpole-esn.git
-cd cartpole-esn
+git clone https://github.com/frezazadeh/rl-bayesian-ESN.git
+cd rl-bayesian-ESN
 python -m venv venv
 source venv/bin/activate       # Windows: venv\Scripts\activate
 pip install -r requirements.txt
